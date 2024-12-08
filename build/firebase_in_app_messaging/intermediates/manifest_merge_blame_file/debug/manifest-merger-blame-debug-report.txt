@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.firebase.inappmessaging" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+6
+7    <application>
+7-->C:\Users\ADMIN\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_in_app_messaging-0.8.0+11\android\src\main\AndroidManifest.xml:3:3-8:17
+8        <service android:name="com.google.firebase.components.ComponentDiscoveryService" >
+8-->C:\Users\ADMIN\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_in_app_messaging-0.8.0+11\android\src\main\AndroidManifest.xml:4:5-7:15
+8-->C:\Users\ADMIN\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_in_app_messaging-0.8.0+11\android\src\main\AndroidManifest.xml:4:14-85
+9            <meta-data
+9-->C:\Users\ADMIN\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_in_app_messaging-0.8.0+11\android\src\main\AndroidManifest.xml:5:7-6:77
+10                android:name="com.google.firebase.components:io.flutter.plugins.firebase.inappmessaging.FlutterFirebaseAppRegistrar"
+10-->C:\Users\ADMIN\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_in_app_messaging-0.8.0+11\android\src\main\AndroidManifest.xml:5:18-134
+11                android:value="com.google.firebase.components.ComponentRegistrar" />
+11-->C:\Users\ADMIN\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_in_app_messaging-0.8.0+11\android\src\main\AndroidManifest.xml:6:9-74
+12        </service>
+13    </application>
+14
+15</manifest>
