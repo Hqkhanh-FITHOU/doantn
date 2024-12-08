@@ -1,0 +1,3 @@
+enum PaymentType {
+  CREDIT_CARD, CASH_ON_DELIVERY, VNPAY
+}
